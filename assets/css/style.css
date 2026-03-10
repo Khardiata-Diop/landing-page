@@ -1,0 +1,56 @@
+/******** RESET ********/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+.action{
+    background-color: #3882F6 ;
+}
+/******** HEADER ********/
+header{
+    background-color: #1F3237;
+}
+h1{
+    font-size: 48px;
+    color: #F9FAF9;
+    font-weight: 900;
+}
+/*.infoheader p{
+    font-size: 36px;
+    color :#1F2937;
+    font-weight : 900;
+}*/
+/******** MAIN ********/
+
+blockquote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color :#1F2937;
+    font-weight : 300;
+}
+.calltoaction{
+    background-color: #3882F6 ;
+}
+.squbble{
+    height: 100px;
+    width: 100px;
+    border : solid 2px #3882F6;
+    border-radius:8px;
+}
+/******** FOOTER ********/
+footer{
+    background-color: #1F3237;
+    text-align: center;
+}
+
+.placeholder{
+    
+}
+
+
