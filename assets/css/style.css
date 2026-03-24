@@ -15,11 +15,29 @@
 /******** HEADER ********/
 header{
     background-color: #1F3237;
+    color:#F9FAF9;
+}
+.headertop{
+    display:flex;
+}
+ul{
+    display:flex;
+}
+
+header section{
+    display:flex;
 }
 h1{
     font-size: 48px;
     color: #F9FAF9;
     font-weight: 900;
+}
+menu li{
+    list-style-type: none;
+}
+.headerbodyleft img{
+    width:512px;
+    height:auto;
 }
 /*.infoheader p{
     font-size: 36px;
@@ -40,7 +58,7 @@ blockquote{
 .squbble{
     height: 100px;
     width: 100px;
-    border : solid 2px #3882F6;
+    border : solid 3px #3882F6;
     border-radius:8px;
 }
 /******** FOOTER ********/
@@ -49,8 +67,5 @@ footer{
     text-align: center;
 }
 
-.placeholder{
-    
-}
 
 
