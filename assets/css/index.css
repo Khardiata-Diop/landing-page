@@ -9,7 +9,7 @@
 
 /* HEADER */
 .header{
-    color: #F9FAF9;
+    color: #F9FAF8;
     background-color: #1F3237;
 }
 .headertop{
@@ -17,20 +17,26 @@
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 100px;
+    padding : 10px;
+}
+.headerlogo{
+    color: #F9FAF8;
+    font-size: 24px;
 }
 menu{
     display : flex;
     list-style-type: none;
+    gap : 20px;
 }
 
 a{
     text-decoration: none;
-    color: #F9FAF9;
+    color: #F9FAF8;
 }
 
 .title{
     font-size: 48px;
-    color: #F9FAF9;
+    color: #F9FAF8;
     font-weight: 900;
 }
 .subtitle{
