@@ -15,6 +15,8 @@
 .headertop{
     display : flex;
     justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 menu{
     display : flex;
@@ -26,7 +28,22 @@ a{
     color: #F9FAF9;
 }
 
+.title{
+    font-size: 48px;
+    color: #F9FAF9;
+    font-weight: 900;
+}
+.subtitle{
+    font-size:24px;
+    color:#E5E7EB;
+}
+.headerbody{
+    display: flex;
+}
 
+img{
+    max-height: 200px;
+}
 /* BODY */
 
 
