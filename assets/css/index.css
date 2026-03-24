@@ -38,18 +38,32 @@ a{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    max-width : 440px;
 }
 .subtitle{
     font-size:24px;
     color:#E5E7EB;
+    max-width : 440px;
 }
 .headerbody{
     display: flex;
+    padding:100px;
+    justify-content: space-around;
 }
 
 img{
     max-height: 200px;
+    margin-left: 40px;
 }
+
+button{
+    background-color: #3882F6 ;
+    color:white;
+    padding :5px 20px;
+    border: none;
+    border-radius: 10px; 
+}
+
 /* BODY */
 
 
