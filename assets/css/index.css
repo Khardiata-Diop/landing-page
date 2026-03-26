@@ -110,5 +110,24 @@ blockquote{
     align-self: flex-end;
 }
 
+.lastsection{
+    padding: 90px 200px;
+}
+.calltoaction{
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    display: flex;
+    padding : 40px;
+    justify-content: space-around;
+}
+.action{
+    background-color: #3882F6;
+    color:white;
+    padding :5px 20px;
+    border: 2px solid white;
+    border-radius: 10px; 
+}
+
 
 /* FOOTER */
