@@ -131,3 +131,11 @@ blockquote{
 
 
 /* FOOTER */
+footer{
+    background-color: #1F3237;
+    color: #F9FAF8;
+    text-align: center;
+    align-items: flex-end;
+    font-size: 10px;
+    padding: 20px;
+}
