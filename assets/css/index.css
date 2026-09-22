@@ -87,6 +87,15 @@ button {
   margin: 50px;
 }
 
+.boxes article {
+  text-align: center;
+  width: 150px;
+}
+
+.boxes article p {
+  text-align: center;
+  width: 150px;
+}
 .squbble {
   width: 150px;
   height: 150px;
